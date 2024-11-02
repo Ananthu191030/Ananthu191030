@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananthapadmanabhan R U</h1>
 <h3 align="center">🚀 A Final-Year CSE Student | 💻 AI & Software Development Enthusiast</h3>
 
-- 🔭 I’m currently working on [Multimodality In improving LLM systems](https://github.com/Ananthu191030/RAG.git)
+- 🔭 I’m currently working on [Multimodality using RAG For improving LLM systems](https://github.com/Ananthu191030/RAG.git)
 
 - 🌱 I’m currently learning **MMF (Multimodal Framework),RAG (Retrieval-Augmented Generation),LangChain.**
 
