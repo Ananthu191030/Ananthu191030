@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Multimodality using RAG For improving LLM systems](https://github.com/Ananthu191030/RAG.git)
 
-- 🌱 I’m currently learning **MMF (Multimodal Framework),RAG (Retrieval-Augmented Generation),LangChain.**
+- 🌱 I’m currently learning **MMF (Multimodal Framework),RAG (Retrieval-Augmented Generation),LangChain,Langgraph.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ananthu191030](https://github.com/Ananthu191030)
 
